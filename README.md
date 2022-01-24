@@ -1,4 +1,5 @@
-# Hola Amigos 👋 <br>
+<h1 align="center">Hola Amigos 👋</h1> <br>
+
 ### Hope you came here to see my profile 🙂
 ### About me... 🤔 I will tell you... 😄 
 ### I am a student persuing Computer Science and Engineering in a reputed institution 🏛️ 
