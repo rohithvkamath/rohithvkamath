@@ -1,4 +1,4 @@
-<h1 align="center">Hola Amigos 👋</h1> <br>
+<h1 align="center">Hola Amigos 👋</h1>
 
 ### Hope you came here to see my profile 🙂
 ### About me... 🤔 I will tell you... 😄 
