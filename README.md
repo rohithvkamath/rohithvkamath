@@ -1,13 +1,4 @@
-<h1 align="center">Hola Amigos 👋</h1>
 
-### Hope you came here to see my profile 🙂
-### About me... 🤔 I will tell you... 😄 
-### I am a student persuing Computer Science and Engineering in a reputed institution 🏛️ 
-### My hobbies...? Ha ! Does any programmer has any hobbies other than programming 💻 or reading books 📚
-### About me...? 🤔 If you really want to know PRESS 📎 on the social media links below 👇 
-<h3> <b> Github ? 🤦‍♂️ </b>You are seeing my profile ! 🤭 </h3>
-<h3><b><a href="https://www.instagram.com/rohith.v.kamath/"> Instagram </a></b></h3>
-<h3><b><a href="https://www.linkedin.com/in/rohith-v-kamath-2b98a6214/"> Linked In </a></b></h3>
 
 
 <!--
